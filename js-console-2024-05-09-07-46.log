@@ -1,0 +1,100 @@
+load-shinylive-sw.js:37 Service Worker registered
+shinylive.js:21554 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+quarto-preview.js:2 Socket connection open. Listening for events.
+:6327/favicon.ico:1 
+        
+        
+       Failed to load resource: the server responded with a status of 404 (Not Found)
+shinylive.js:31930 WebR is using `PostMessage` communication channel, nested R REPLs are not available.
+Xs @ shinylive.js:31930
+shinylive.js:34937 preload echo:
+shinylive.js:34937 preload echo:R version 4.3.0 (2023-04-21) -- "Already Tomorrow"
+shinylive.js:34937 preload echo:Copyright (C) 2023 The R Foundation for Statistical Computing
+shinylive.js:34937 preload echo:Platform: wasm32-unknown-emscripten (32-bit)
+shinylive.js:34937 preload echo:
+shinylive.js:34937 preload echo:R is free software and comes with ABSOLUTELY NO WARRANTY.
+shinylive.js:34937 preload echo:You are welcome to redistribute it under certain conditions.
+shinylive.js:34937 preload echo:Type 'license()' or 'licence()' for distribution details.
+shinylive.js:34937 preload echo:
+shinylive.js:34937 preload echo:R is a collaborative project with many contributors.
+shinylive.js:34937 preload echo:Type 'contributors()' for more information and
+shinylive.js:34937 preload echo:'citation()' on how to cite R or R packages in publications.
+shinylive.js:34937 preload echo:
+shinylive.js:34937 preload echo:Type 'demo()' for some demos, 'help()' for on-line help, or
+shinylive.js:34937 preload echo:'help.start()' for an HTML browser interface to help.
+shinylive.js:34937 preload echo:Type 'q()' to quit R.
+shinylive.js:34937 preload echo:
+shinylive.js:34938 preload error:Downloading webR package: Rcpp
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: R6
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: fastmap
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: rlang
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: later
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: magrittr
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: promises
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: httpuv
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: mime
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: jsonlite
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: xtable
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: base64enc
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: digest
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: ellipsis
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: htmltools
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: fontawesome
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: sourcetools
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: crayon
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: withr
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: commonmark
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: glue
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: cachem
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: jquerylib
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: cli
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: lifecycle
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: memoise
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: fs
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: rappdirs
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: sass
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: bslib
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: codetools
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: renv
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Downloading webR package: shiny
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Error: there is no package called ‘ggplot2’
+_error @ shinylive.js:34938
+shinylive.js:34938 preload error:Error: object 'app_46tbc586tfof2hkce0ji' not found
+_error @ shinylive.js:34938
+shinylive.js:32135 Uncaught (in promise) Error: Unexpected response type: "null", expected "list".
+    at handleHttpuvRequests (shinylive.js:32135:17)
+    at async makeHttpuvRequest (shinylive.js:32091:3)
+    at async WebRWorkerProxy.makeRequest (shinylive.js:33584:5)
