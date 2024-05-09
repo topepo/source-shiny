@@ -1,5 +1,3 @@
-
-
 # Embeddings {#sec-embeddings}
 
 @fig-linear-scores shows a scatterplot of the principal components colored by the percentage of barley oil.  The figure reveals that the first PCA component delineates the higher barley oil samples from those with less oil.  There also appear to be three different clusters of samples with very low (if any) barley oil. It might be helpful to investigate these samples to ascertain if they are artifacts or caused by some systematic, underlying factors not in the current set of columns. The pairing of the second and fourth components appears to help differentiate lower barely samples from the broader set. The pairing of the third and fourth components doesn’t offer much predictive power on their own.
@@ -13,10 +11,24 @@
 #| out-width: "80%"
 #| viewerHeight: 550
 #| standalone: true
-  source("https://raw.githubusercontent.com/topepo/source-shiny/main/shiny-linear-scores.R")
+
+library(shiny)
+library(ggplot2)
+library(bslib)
+library(viridis)
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(ggforce)
+
+source("https://raw.githubusercontent.com/topepo/source-shiny/main/shiny-linear-scores.R")
+
+app
 ```
 :::
 
 A visualization of the four new features for different linear embedding methods. The data shown are the validation set results.
 
 :::
+
+

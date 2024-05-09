@@ -1,13 +1,3 @@
-library(shiny)
-library(ggplot2)
-library(bslib)
-library(viridis)
-library(dplyr)
-library(tidyr)
-library(purrr)
-library(ggforce)
-
-# ------------------------------------------------------------------------------
 
 light_bg <- "#fcfefe" # from aml4td.scss
 grid_theme <- bs_theme(
